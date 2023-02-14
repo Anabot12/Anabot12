@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anabot12
 - 👀 I’m interested in doing projects in Artificial Intelligence and Machine Learning 
-- 🌱 I’m currently learning Java, R, C/C++, Python 
+- 🌱 I’m currently learning Java, C/C++, Python 
 - 💞️ I’m looking to collaborate on any platform 
 - 📫 You can contact me on ananyaamathur03@gmail.com 
 
